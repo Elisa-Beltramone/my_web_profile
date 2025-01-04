@@ -1,0 +1,58 @@
+body {
+    background: rgb(6, 16, 25);
+    color: rgba(16, 178, 178, 0.608);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar, .bg-body-tertiary{
+    background: rgb(6, 16, 25) !important;
+}
+
+.navbar-brand, .nav-link{
+    font-weight: bold;
+    color: rgba(16, 178, 178, 0.608) !important;
+}
+
+.about {
+    margin: 30px;
+}
+
+.content {
+    margin: 40px;
+}
+
+.col {
+    color: rgba(238, 54, 72, 0.614);
+}
+
+.subtitle{
+    color: rgb(78, 30, 154);
+}
+
+.card, .mb-3 {
+    background: rgb(1, 15, 32);
+    color: rgba(16, 178, 178, 0.608);
+}
+
+.bi{
+    color: brown;
+}
+
+
+.list-group-item {
+    background-color: black;
+    color: rgb(149, 82, 188);
+    border: none;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+
+.list-group-item:hover{
+    transform: scale(1.05);
+}
+
