@@ -42,13 +42,16 @@ img {
     color: brown;
 }
 
+.container {
+    margin: 0px;
+}
+
 
 .list-group-item {
     background-color: black;
     color: rgb(149, 82, 188);
     border: none;
     transition: transform 0.2s ease-in-out;
-
 }
 
 
